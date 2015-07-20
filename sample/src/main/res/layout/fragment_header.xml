@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id = "@+id/scroll"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="250dp">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/black">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:singleLine="false"
+        android:textSize="25sp"
+        android:textColor="@android:color/white"
+        android:text= "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In vehicula sapien elementum ullamcorper venenatis. Nullam non erat sit amet ipsum scelerisque iaculis. Morbi luctus lorem eros, non lacinia dui pharetra non. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis gravida, felis id maximus facilisis, erat quam blandit sapien, ut hendrerit justo velit ut diam. In eget mi in lacus bibendum imperdiet. Vivamus eget massa cursus, condimentum mauris vel, viverra lacus.
+
+Donec tristique dui sed tellus molestie varius. Vivamus euismod purus ut est auctor volutpat. Aenean eu quam id metus consequat suscipit. Nullam porttitor velit id ullamcorper semper. Fusce aliquet vitae ex nec molestie. Etiam euismod convallis est ut fermentum. In suscipit imperdiet mattis. Pellentesque."/>
+</LinearLayout>
+</ScrollView>
